@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <versionedSettings rootId="Test_Test" enabled="true" showChanges="false" buildSettings="PREFER_VCS" />
+  <report-tabs>
+    <report-tab title="index" buildTypeId="Test_MSBuild">
+      <revisionRule name="lastSuccessful" revision="latest.lastSuccessful" />
+    </report-tab>
+  </report-tabs>
+</settings>
+
